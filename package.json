@@ -8,7 +8,7 @@
     "mongoose": "^8.3.3"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index"
   },
   "repository": {
     "type": "git",
